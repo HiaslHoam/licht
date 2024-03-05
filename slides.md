@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: "images/pexels-dobromir-hristov-3845162.jpg"
+background: "./images/pexels-dobromir-hristov-3845162.jpg"
 favicon: https://moechtegern-astronaut.de/wp-content/uploads/2022/11/cropped-logo-1-e1669834567821.png
 class: text-center
 highlighter: shiki
