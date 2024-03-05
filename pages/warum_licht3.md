@@ -1,3 +1,7 @@
+---
+title: Was ist eigentlich Licht?
+---
+
 # Was ist eigentlich Licht?
 
 <div class="grid justify-center justify-items-center items-center">
@@ -22,3 +26,8 @@
     grid-area: 1 / 1;
   }
 </style>
+
+<!--
+- Galilei fast 500 Jahre tot 
+- Was wissen wir denn eigentlich über Licht?
+-->

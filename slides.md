@@ -60,12 +60,26 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/warum_licht3.md
 hide: false
 ---
 
 ---
-src: ./pages/licht_als_welle.md
+transition: none
+src: ./pages/licht_als_welle_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/licht_als_welle_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/licht_als_welle_3.md
 hide: false
 ---
 
