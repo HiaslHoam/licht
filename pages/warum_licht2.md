@@ -4,9 +4,9 @@
   <div class="content">
     <img src="/images/david-brooke-martin-t_ZdxJsE8iM-unsplash.jpg" class="max-h-100 shadow-xl" />
   </div>
-  <div class="overlay p-12 bg-black bg-opacity-20 rounded-2xl backdrop-blur-xl shadow-2xl text-white">
-    <div class="italic text-xl">Licht erzählt uns die Nachrichten des Universums</div>
-    <div class="text-xs opacity-40">- Sir William Bragg</div>
+  <div class="overlay p-8 bg-black bg-opacity-20 rounded-2xl backdrop-blur-xl shadow-2xl text-white">
+    <div class="italic text-xl max-w-100">Ich denke manchmal: ich ließe mich zehn Klafter unter der Erde in einen Kerker einsperren, zu dem kein Licht mehr dringt, wenn ich dafür erführe, was das ist: Licht. </div>
+    <div class="text-xs opacity-40 mt-4">- Aus Leben des Galilei von Bertolt Brecht</div>
   </div>
 </div>
 

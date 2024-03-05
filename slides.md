@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: "./images/pexels-dobromir-hristov-3845162.jpg"
+background: "https://moechtegern-astronaut.de/wp-content/uploads/2022/11/pexels-dobromir-hristov-3845162-2048x1536.jpg"
 favicon: https://moechtegern-astronaut.de/wp-content/uploads/2022/11/cropped-logo-1-e1669834567821.png
 class: text-center
 highlighter: shiki
@@ -60,7 +60,12 @@ hide: false
 ---
 
 ---
-src: ./pages/beispiel.md
+src: ./pages/warum_licht3.md
+hide: false
+---
+
+---
+src: ./pages/licht_als_welle.md
 hide: false
 ---
 
