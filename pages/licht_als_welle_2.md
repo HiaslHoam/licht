@@ -1,4 +1,5 @@
 # Was ist eigentlich Licht?
+Licht als Welle
 
 <div class="grid grid-cols-3 justify-center justify-items-center items-center min-h-100">
   <div class="col-span-2 self-center">
@@ -13,7 +14,7 @@
   </div>
   <div>
 
-  * Wellen lassen sich durch mehrere Eigenschaften charakterisieren:
+  * Wellen lassen sich durch mehrere Eigenschaften charakterisieren
   
   </div>
   <div class="not-active">

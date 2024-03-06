@@ -84,6 +84,18 @@ hide: false
 ---
 
 ---
+transition: none
+src: ./pages/licht_als_welle_4.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/licht_als_teilchen.md
+hide: false
+---
+
+---
 layout: image-right
 image: https://pad.fs.lmu.de/uploads/cb7bf07f-08b2-4326-8a47-d83e086a108e.png
 src: ./pages/more.md

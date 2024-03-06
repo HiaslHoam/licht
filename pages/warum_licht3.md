@@ -28,6 +28,6 @@ title: Was ist eigentlich Licht?
 </style>
 
 <!--
-- Galilei fast 500 Jahre tot 
+- Seit Galilei fast 500 Jahre vergangen 
 - Was wissen wir denn eigentlich über Licht?
 -->
